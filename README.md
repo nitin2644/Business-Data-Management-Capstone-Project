@@ -1,7 +1,3 @@
-
-**Business Data Management Capstone Project README.md (Detailed Version):**
-
-```markdown
 # Business Data Management Capstone Project
 
 ## Table of Contents
@@ -9,10 +5,6 @@
 - [Introduction](#introduction)
 - [Key Activities](#key-activities)
 - [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributors](#contributors)
-- [License](#license)
 
 ## Introduction
 
